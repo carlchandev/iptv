@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NowNews.hk" tvg-logo="https://i.imgur.com/VhZgB4u.png" group-title="香港",Now 新聞台
+https://cdn.ggapk.net/live/tv?id=4667fqKoXMGYq90xlj-xnyqmAvlE9IyiLwwrLvPJN0jNl6oe003xDWD9ZCRyJxTLa1zBC0uayFLD_0M_brV1_tSu4FcACAao3t8xPoWQoZjbjtUY0VVT4HLb2YdyO7vyPZbT8s7oAlnLUynyMZ7JkCxlzl98nYCeNZOq-ZwwFmFpEixu7hRG68ZGl3DY-ixMbZTS1VVIrfsEtkgFovZNupu42ELGlSyuYQy5DYLR0IKT8fCtt-c8w9isB0y9lkzH0RQs9N85L3DM9CMsSu8rvwjZ2pVODcLfaiNf1AWuNUL9zpmtplb5x-eB0fNZUxO63qasv4JCmWR2Sgqv54okJEBvLa05vanqmALS-lVou5G-vBKLxiUHK__0A-GjHd5Nr19wG2DGZhpAmrKHjkzlkRl4yMcF4Jak6yfWdOuQuLG_bhpGAwg5s4Xhy-Cg4PPDIO__0_viYmb2vJVVO8X35SmTOsoISLJDRAAeSBq1nF0cVMZ0n8YijINK1oojlk3UAdoX5PQ_HPbb-3p1IpxadnrKwfSqAGY0qNYOhAUoUd0Cc_tw51tlfb0I-x7nUwfevi-f3_pFsbfySd13Qi2sMZTkS5sOf2eG720l6BSIAfPTrw1IjVKjENyF6yQIGkpx7y67pXAnQmSHMJg&idp=f578cZf08METWFfKyhLBJQqmUVCTZQknY71rXhY5_KDMg2jj4581oA
 #EXTINF:-1 tvg-id="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="香港",ViuTV
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="香港",Viu6
@@ -9,6 +11,8 @@ http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=192
 http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 #EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.imgur.com/2QLqpF1.png" group-title="香港",TVB Jade 翡翠台
 http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+#EXTINF:-1 tvg-id="Jade2.hk" tvg-logo="https://i.imgur.com/2QLqpF1.png" group-title="香港",TVB Jade 翡翠台 (#2)
+https://cdn.ggapk.net/live/tv?id=48e7C2E3Ce7Lzl0ONsz3EkYoKOsbXn_Y_mpRJcOe6P_li46skioaEdiQDKuprTRxsWm0J2dUiSET0gHfY6bwcfkSbfXQhcmElLip0Pf_N8ZoARfFk6dbYtngjAAkiUiMCS--R-QGwsJipMT4FayxBOStitUJNAGGQv6vkALf4j7kgKOXTk6WZRgL8wwVxpqr5AhzgglanQzU-yRiobMXqaz2a9ZzmJj5_gn4JOc6xPcyKm2ZLDUzs4oWFV1m450Pn4dRC_sHifbSlP6bAk76zLdLgeEm0a1IJLDStTP8JzgEDO79STXteaGALI0STs0C1bp_LpuaY0WTy0tol6EkrX4Y0M3PztakWJmbq8DzSlJSO7eF-6PuN61AGzRAXDzCRITx2-qbDcwVfdYmANnrFrOU2ICyEprK9OjPLHohIbmFL1i9AZehxNEAc_gQcepGR_SJG7guIinGGBlSXPXFe6gZCaYc5RVMZUwckhQj0zd1YEfaTGCibl2hQ9jIZf5DFztRWfxSV38NTsMoDEr2a05QAT6fvP9JhbveAqhdFyRns0Z6Zs2NqZO-fs5Bj3Ps17N9f9wu&idp=5013my6cTcC2Grrfk_EP8A-vAejHY4d-LQnEENVGmTv9d1wLr-kTuA
 #EXTINF:-1 tvg-id="J2.hk" tvg-logo="https://i.imgur.com/imixYvK.png" group-title="香港",TVB J2
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
 #EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/YaGiZej.jpg" group-title="香港",TVB 新聞台 (720p)
@@ -2238,6 +2242,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a30009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56171fafada51f8004c4b40f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=990&terminate=false&userId=
 #EXTINF:-1 tvg-id="AllRealitybyWEtv.us" tvg-logo="https://i.imgur.com/HZTz5HJ.png" group-title="美國",Pluto TV Pluto All Reality by WE tv (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82530945600e0007ca076c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82530945600e0007ca076c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=310&terminate=false&userId=
+#EXTINF:-1 tvg-id="NowSportsPrime.hk" tvg-logo="https://i.imgur.com/gAWAL7B.png" group-title="體育",Fox Sports (720p)
+https://cdn.ggapk.net/live/tv?id=efc9KN9rpyEGTIHvYPrH0cNJvw26LFUY7Rrd62pwCvjUWhUzQ0WmcXTmu7Hra-OX2fDcPQosbN3BBLVbqkV6zOuw2OCoB3soDYxj1HNOxosCmfykSCfxPNq3OTp5bNKjuo-CW1RUNPoHD98M6Cre0jyEUuH8lsPkYybfcgsRDHdrpXe8sLsLQ2AJ8RUE0U2zChNTz4HYGAS13fw5v9FSFMIIXqrTov36_CNZW67DoU6vUazuuAhT4oTtZSyxGJnSJi40xz45rx9lto9cGk3xa5bQ9CACPcXy6E4hFuk0vxgyy68spdu173MarjfDegbcP9s4CvIA9nqKLW0_MlDjK7qzIK_78xJeTUBo0tdFPskjkG1pmAR2dHsuYMrzJE8NYeWK3zMYiE2nCc4h1uO5oyhzMQF0HfuanzBuz9EyWH_yprx-oiIFa9bmj2a3rPS_qYoM4snpqdbMLT7UD2ls5FGIAGbSpQU2J_zDsMpXuRreZjyJ7QXM-4vy3h4QwPPLdpO4w-E6ulc5FFGRisX5egbKCs5yIJCrl7bINW3qnzpuf0CuDe_8sh151q4WwF9vub6gQko3&idp=656fTkhlFIEmAAd1RXEaV_d7aNH9zjOEwBEydEiv_lFdo_NkTfVXUQ
 #EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="體育",Fox Sports (720p)
 https://lnc-fox-sports2.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="體育",Fubo Sports Network (1080p) [Geo-blocked]
@@ -2261,8 +2267,6 @@ http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8
 https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel
 http://38.96.178.201/live/Disney/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-logo="https://i.imgur.com/CFS67yj.png" group-title="Kids",Disney Channel (432p)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-logo="https://i.imgur.com/VSq7b5E.jpg" group-title="Kids",Disney Channel Japan (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-id="DisneyJunior.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior (544p)
