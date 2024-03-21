@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NowNews.hk" tvg-logo="https://i.imgur.com/VhZgB4u.png" group-title="香港",Now 新聞台
-https://cdn.ggapk.net/live/tv?id=4667fqKoXMGYq90xlj-xnyqmAvlE9IyiLwwrLvPJN0jNl6oe003xDWD9ZCRyJxTLa1zBC0uayFLD_0M_brV1_tSu4FcACAao3t8xPoWQoZjbjtUY0VVT4HLb2YdyO7vyPZbT8s7oAlnLUynyMZ7JkCxlzl98nYCeNZOq-ZwwFmFpEixu7hRG68ZGl3DY-ixMbZTS1VVIrfsEtkgFovZNupu42ELGlSyuYQy5DYLR0IKT8fCtt-c8w9isB0y9lkzH0RQs9N85L3DM9CMsSu8rvwjZ2pVODcLfaiNf1AWuNUL9zpmtplb5x-eB0fNZUxO63qasv4JCmWR2Sgqv54okJEBvLa05vanqmALS-lVou5G-vBKLxiUHK__0A-GjHd5Nr19wG2DGZhpAmrKHjkzlkRl4yMcF4Jak6yfWdOuQuLG_bhpGAwg5s4Xhy-Cg4PPDIO__0_viYmb2vJVVO8X35SmTOsoISLJDRAAeSBq1nF0cVMZ0n8YijINK1oojlk3UAdoX5PQ_HPbb-3p1IpxadnrKwfSqAGY0qNYOhAUoUd0Cc_tw51tlfb0I-x7nUwfevi-f3_pFsbfySd13Qi2sMZTkS5sOf2eG720l6BSIAfPTrw1IjVKjENyF6yQIGkpx7y67pXAnQmSHMJg&idp=f578cZf08METWFfKyhLBJQqmUVCTZQknY71rXhY5_KDMg2jj4581oA
 #EXTINF:-1 tvg-id="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="香港",ViuTV
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="香港",Viu6
@@ -1026,10 +1024,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a30009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56171fafada51f8004c4b40f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=990&terminate=false&userId=
 #EXTINF:-1 tvg-id="AllRealitybyWEtv.us" tvg-logo="https://i.imgur.com/HZTz5HJ.png" group-title="美國",Pluto TV Pluto All Reality by WE tv (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82530945600e0007ca076c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82530945600e0007ca076c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=310&terminate=false&userId=
+#EXTINF:-1 tvg-id="ELTASports2.tw" tvg-logo="https://i.imgur.com/68QZe9k.png" group-title="體育", ELTA體育2
+http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1 tvg-id="BTSport1.us" tvg-logo="https://i.imgur.com/xz0a9GV.png" group-title="體育", BT Sport 1
+http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME4E5665100556651005&ct=19254&tsum=caea1a674ddae23ddac022c6f734bbe9
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.imgur.com/FIwC5AP.png" group-title="體育", ESPN
-https://euorigin.scdn.eu.org/live/espn.m3u8?token=H1mfdpfW-IwtFADsmyVqfA&expires=1711080122
-#EXTINF:-1 tvg-id="NowSportsPrime.hk" tvg-logo="https://i.imgur.com/gAWAL7B.png" group-title="體育",Now Sports Prime
-https://cdn.ggapk.net/live/tv?id=0122HTlIqNJzm0XGUG-A_1qiBbiH12KfZ-O1FkKZ8uZbFLvmAqiF4r5g6sXW9UKJVhST-3vEnbe6SKflknj3xaY1qn3cBmifTzgk2sBxs9TX9vuKQqi0-2ubQ9oMg2cuvYRqADm6nz1T1UCUE8qS-JA086oKKeMAVQbo1-Av971uEmFethrClu-EVPujfuJmbF0tv1NDRidYmrwhctuTz3Ar_3aSxO6V5ajkCizdDJVuwRpWz2dYh8hlGx_gxG0dQQ4Ye1dzEyMKIz7iIwsirrmtn5RxkBhexpID8wJDbHKdb0D_0k5xG_P39BZySFcO4CAdV3ffba1BoLDbVWtGa7QwrZmXtRKi8hXye7MV7Yr3hhGR-G7RJdaJmBmD1ejkHs1UNgVgxASEyfh9HozIs3-osWqJoYzK_zBKcqodaw0iYq8SWooHisAq9XbHmVP_B5PdGeuLjpk3xG2evN7GSAWNO3_YFnvMG0fJi_rmVCypisuyT7BMflwI5kGMQNhjv40i39pIg7ahf7_WIfnIECVYTEXTB48yyClSr1moZDX11Rtd8SB6bmfw43y2t9gDQHcwO7Ez&idp=1f28nJb1_x8dnaYqTw5WGyFrJAhJhO8xQ-QGQUxpfJooVVkw8HRxng
+http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="體育",Fox Sports (720p)
 https://lnc-fox-sports2.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="體育",Fubo Sports Network (1080p) [Geo-blocked]
