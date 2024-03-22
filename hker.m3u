@@ -1027,13 +1027,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004
 #EXTINF:-1 tvg-id="AllRealitybyWEtv.us" tvg-logo="https://i.imgur.com/HZTz5HJ.png" group-title="美國",Pluto TV Pluto All Reality by WE tv (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82530945600e0007ca076c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82530945600e0007ca076c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=310&terminate=false&userId=
 #EXTINF:-1 tvg-id="NowSportsPrime.hk" tvg-logo="https://i.imgur.com/gAWAL7B.png" group-title="體育", Now Sports Prime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://cdn.ggapk.net/live/tv?id=9793co1-LAX2YuDeLB7_E_IcfYkdnJR49TaBPcGzKwHaK2A7ZCzPCVu8QxcwFlkBLlmA61u6V4H6mhom_Ip-oJ96NvW6I1-5Xt7mhvtZEpHTE4fOeHJEmHFQrzLzKYC7nACfa49F6C14DUe0S_rdVNUXBb_Nn-TU1L1g2NNqCALf161_Q80lpZT23Nq8ejKlbX4XjthOfBaV7q8qRwqXiAWrFN4nce5NmSTFgAZEU_bKb7rPKEJhP0pGUiJknoDLXun8WGc4u8YdgHu_UVVbSDjMt_WFPfqe0d5H04UGcvXFvY7Q_HAS0fvWvk1UK6zKCrHjsSO1iX0EdUeSCrxsDOsl0NGJwS8d4oaQIbv64ayp7t8QAJNWfknbYRIoPDtJfKrRqCVF77b6vPEUOnj_L-80ybqhZf6gy0vSlb_qjDdNcQsaD2VII8bQINBdF83AR_cnAInAWp45gZ7OOYCTfK_Hj2uBDSIj8MkA8-8I45vnxB6tw4yayQ2NerIXUK2tqMW15FOT5nlzvyyN5louJqqY2wL5FYnYf1WMoHeFgJjWvlc0E45DzoxF_36KJ3-lsRQSZU6Q&idp=a934uduQEZVpcOWDX3u3tYzUoJTmbLi8NL2ggMk6UKN378-66PSqWA
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/n8CalLY.jpeg" group-title="體育", Sky Sports Main Event
 https://n1.totototorina.com:999/hls/skysme.m3u8?md5=dWNT6PglObxBoIQEgZXdBg&expires=2711152426
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/n8CalLY.jpeg" group-title="體育", Sky Sports Premier League
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ELTASports2.tw" tvg-logo="https://i.imgur.com/68QZe9k.png" group-title="體育", ELTA體育2
+#EXTINF:-1 tvg-id="ELTASports2.tw" tvg-logo="https://i.imgur.com/68QZe9k.png" group-title="體育", ELTA體育 2
 http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 #EXTINF:-1 tvg-id="Sportcast1.tw" tvg-logo="https://i.imgur.com/QFeAymz.png" group-title="體育", 博斯運動 1
 http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
