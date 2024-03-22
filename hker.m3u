@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="香港",ViuTV
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv
+#EXTINF:-1 tvg-id="ViuTV2.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="香港",ViuTV (#2)
+http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="香港",Viu6
 http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 #EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="香港",RTHK31 港台電視31
@@ -8,9 +10,9 @@ http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=192
 #EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="香港",RTHK32 港台電視32
 http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 #EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.imgur.com/2QLqpF1.png" group-title="香港",TVB Jade 翡翠台
-http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 #EXTINF:-1 tvg-id="Jade2.hk" tvg-logo="https://i.imgur.com/2QLqpF1.png" group-title="香港",TVB Jade 翡翠台 (#2)
-https://cdn.ggapk.net/live/tv?id=48e7C2E3Ce7Lzl0ONsz3EkYoKOsbXn_Y_mpRJcOe6P_li46skioaEdiQDKuprTRxsWm0J2dUiSET0gHfY6bwcfkSbfXQhcmElLip0Pf_N8ZoARfFk6dbYtngjAAkiUiMCS--R-QGwsJipMT4FayxBOStitUJNAGGQv6vkALf4j7kgKOXTk6WZRgL8wwVxpqr5AhzgglanQzU-yRiobMXqaz2a9ZzmJj5_gn4JOc6xPcyKm2ZLDUzs4oWFV1m450Pn4dRC_sHifbSlP6bAk76zLdLgeEm0a1IJLDStTP8JzgEDO79STXteaGALI0STs0C1bp_LpuaY0WTy0tol6EkrX4Y0M3PztakWJmbq8DzSlJSO7eF-6PuN61AGzRAXDzCRITx2-qbDcwVfdYmANnrFrOU2ICyEprK9OjPLHohIbmFL1i9AZehxNEAc_gQcepGR_SJG7guIinGGBlSXPXFe6gZCaYc5RVMZUwckhQj0zd1YEfaTGCibl2hQ9jIZf5DFztRWfxSV38NTsMoDEr2a05QAT6fvP9JhbveAqhdFyRns0Z6Zs2NqZO-fs5Bj3Ps17N9f9wu&idp=5013my6cTcC2Grrfk_EP8A-vAejHY4d-LQnEENVGmTv9d1wLr-kTuA
+http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 #EXTINF:-1 tvg-id="J2.hk" tvg-logo="https://i.imgur.com/imixYvK.png" group-title="香港",TVB J2
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
 #EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/YaGiZej.jpg" group-title="香港",TVB 新聞台 (720p)
@@ -1027,7 +1029,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82530945600e0007
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.tw" tvg-logo="https://i.imgur.com/n8CalLY.jpeg" group-title="體育", Sky Sports Premier League
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ELTASports2.tw" tvg-logo="https://i.imgur.com/68QZe9k.png" group-title="體育", ELTA體育2
-http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=
+http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1 tvg-id="Sportcast1.tw" tvg-logo="https://i.imgur.com/QFeAymz.png" group-title="體育", 博斯運動 1
+http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 #EXTINF:-1 tvg-id="Sportcast2.tw" tvg-logo="https://i.imgur.com/QFeAymz.png" group-title="體育", 博斯運動 2
 http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
 #EXTINF:-1 tvg-id="BTSport1.us" tvg-logo="https://i.imgur.com/xz0a9GV.png" group-title="體育", BT Sport 1
