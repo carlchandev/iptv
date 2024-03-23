@@ -1038,15 +1038,21 @@ http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&
 http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 #EXTINF:-1 tvg-id="Sportcast2.tw" tvg-logo="https://i.imgur.com/QFeAymz.png" group-title="體育", 博斯運動 2
 http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/xz0a9GV.png" group-title="體育", BT Sport 1
+#EXTINF:-1 tvg-id="Sportcast2_2.tw" tvg-logo="https://i.imgur.com/QFeAymz.png" group-title="體育", 博斯運動 2
+http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+#EXTINF:-1 tvg-id="SportcastTennis.tw" tvg-logo="https://i.imgur.com/Qv0CzCc.jpeg" group-title="體育", 博斯網球
+http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+#EXTINF:-1 tvg-id="GreatSports.cn" tvg-logo="https://i.imgur.com/84tyq9s.jpeg" group-title="體育", 五星體育
+http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/tXRjvQi.jpeg" group-title="體育", TNT Sport 1
 http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME4E5665100556651005&ct=19254&tsum=caea1a674ddae23ddac022c6f734bbe9
-#EXTINF:-1 tvg-id="BTSport1_2.uk" tvg-logo="https://i.imgur.com/xz0a9GV.png" group-title="體育", BT Sport 1 (#2)
+#EXTINF:-1 tvg-id="BTSport1_2.uk" tvg-logo="https://i.imgur.com/tXRjvQi.jpeg" group-title="體育", TNT Sport 1 (#2)
 http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.imgur.com/yDsgQfZ.png" group-title="體育", BT Sport 2
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.imgur.com/tXRjvQi.jpeg" group-title="體育", TNT Sport 2
 http://198.16.100.90:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
-#EXTINF:-1 tvg-id="BTSport2_2.uk" tvg-logo="https://i.imgur.com/yDsgQfZ.png" group-title="體育", BT Sport 2 (#2)
+#EXTINF:-1 tvg-id="BTSport2_2.uk" tvg-logo="hhttps://i.imgur.com/tXRjvQi.jpeg" group-title="體育", TNT Sport 2 (#2)
 http://198.16.100.90:8278/beetwo/playlist.m3u8?tid=ME8E7161918071619180&ct=19254&tsum=5a361ecdfed8be71815bc378f08714c6
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/KFBLrAR.png" group-title="體育", BT Sport 3
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/tXRjvQi.jpeg" group-title="體育", TNT Sport 3
 http://198.16.100.90:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.imgur.com/FIwC5AP.png" group-title="體育", ESPN
 http://143.244.60.30/ESPN/index.m3u8
