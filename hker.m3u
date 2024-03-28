@@ -14,15 +14,17 @@ http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=192
 #EXTINF:-1 tvg-id="Jade_3.hk" tvg-logo="https://i.imgur.com/2QLqpF1.png" group-title="香港",TVB Jade 翡翠台 (#3)
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 #EXTINF:-1 tvg-id="Jade_4.hk" tvg-logo="https://i.imgur.com/2QLqpF1.png" group-title="香港",TVB Jade 翡翠台 (#4)
-http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
+https://cdn.ggapk.net/live/tv?id=a8aeR-cLH0NpRpKF8XiQp-TfYnsVocRmchwTFd2uzroynNJBwsVHDPBKHC-YGrX5aap-vOOtcsyec5LJE4dic-ZJNi50UKFKxfq06bv7KGFlq2_pCCXebuG0PPZ3t1rr1lQAX6QiRTcLyH6BkwTWf53I8pxF5DCWl5pa&idp=36b9LyLC2wMxXw6Ra7QC1UZmvLolnAMp3hOvc7GcNelYjgoW
 #EXTINF:-1 tvg-id="J2.hk" tvg-logo="https://i.imgur.com/imixYvK.png" group-title="香港",TVB J2
-http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+https://cdn.ggapk.net/live/tv?id=ad8ftgLCGjHDy-lnL4MNLfXkdavJaPo4xXhaoYaypvIGt5dSE6k6WK6hK-FAoLWuSUit2aqoWU2APAreyB2wVA-jkQpckidajEeyzSs7oSvhohaS1McfxIPYEFMhF2hNPNFkzG4mCW5w_5q7t2qKfm77zpPN8vWLnhSpakmxN447Ne4Bl4ip3tI6opgi7V_KqSZU8CUrVbiuHexEmpdnBcya89aAsD10uCAD8dBd5e5wwQXSwkFlalxXQl3Bottc3MyuES7f7rANzzbZD3_YEw-Urrzd9XkVb9Za7kmFUoJRrW-Zq7MBYXvGdDf5F5hNlzRodGgFOj8Piqwm_68o_PQLjGgFBTRoO4Y1hH_haMcnBJGQmaDb-B6l8Cf0OwLjYFosPcAgI7OgTsEo4xowZX0Az6otk25kyN0sfyoGeIW9tioL6aJK50ewXLHdoNjbjfJypqnsofePc8G-upDtLAnxah21A7DS0TOJc-71cl5H5a6XBj3Sna57Z5-e1oR2JkenimVnjsl7p8Z9aF7bFTONOOJhQ2uqSp7V9OBQY7-R7_GMGwVI-WZ_H8Tf05l7RmsWD8MNCViEGqgCxbOyEPH_zkoyAaaVV-225eTNpgKKpHUQ9UtLhVZQpZqAZZVzNSs-D67X9z49Akk&idp=7e25zOT3DIPzAlKF4n9bITXL5SSkHvAlrH40mOQH1MrWR0Tbmtupow
 #EXTINF:-1 tvg-id="J2_2.hk" tvg-logo="https://i.imgur.com/imixYvK.png" group-title="香港",TVB J2 (#2)
 http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
-#EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/YaGiZej.jpg" group-title="香港",TVB 新聞台 (720p)
+#EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/YaGiZej.jpg" group-title="香港",TVB 新聞台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
-#EXTINF:-1 tvg-id="Pearl.hk" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="香港",TVB Pearl 明珠台 (1080p) [Geo-blocked]
-http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
+#EXTINF:-1 tvg-id="Pearl.hk" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="香港",TVB Pearl 明珠台
+http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+#EXTINF:-1 tvg-id="Pearl_2.hk" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="香港",TVB Pearl 明珠台 (#2)
+http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 #EXTINF:-1 tvg-id="TVBFinanceSportsInformationChannel.hk" tvg-logo="https://i.imgur.com/Fkkp7x7.png" group-title="香港",TVB 財經 體育 資訊台 (720p)
 http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
 #EXTINF:-1 tvg-id="HOY76.hk" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="香港",HOY76 國際財經台
