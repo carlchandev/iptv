@@ -426,6 +426,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://38.96.178.201/live/Disney/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="美國",Disney XD
 http://38.96.178.201:80/live/DisneyXD/index.m3u8
+#EXTINF:-1 tvg-id="Fox28Savannah.us" tvg-logo="https://i.imgur.com/247k23w.png" group-title="美國",FOX 28 Savannah
+https://lnc-wtxf.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="WJBKDT1.us" tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="美國",FOX 2 Detroit MI (WJBK) (720p)
 https://lnc-wjbk.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="KTVUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="美國",FOX 2 San Francisco CA (KTVU) (720p)
@@ -1170,6 +1172,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d6792bd6be2998ad0ccce30&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ca4dc680-0715-11eb-aeab-0242ac110002&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVTween.us" tvg-logo="https://i.imgur.com/VMiuJqG.png" group-title="Kids",Pluto TV Tween (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0ae5af8797b00095c0794&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=991&terminate=false&userId=
+#EXTINF:-1 tvg-id="NhkWorldNews.jp" tvg-logo="https://i.imgur.com/4XcR63i.jpeg" group-title="日本",NHK World Japan News
+https://www.youtube.com/watch?v=f0lYkdA-Gtw
 #EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="日本",ABC (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 #EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="日本",Animax (544p)
