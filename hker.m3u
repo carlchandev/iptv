@@ -16,7 +16,7 @@ http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=192
 #EXTINF:-1 tvg-id="Jade_4.hk" tvg-logo="https://i.imgur.com/2QLqpF1.png" group-title="香港",TVB Jade 翡翠台 (#4)
 https://cdn.ggapk.net/live/tv?id=a8aeR-cLH0NpRpKF8XiQp-TfYnsVocRmchwTFd2uzroynNJBwsVHDPBKHC-YGrX5aap-vOOtcsyec5LJE4dic-ZJNi50UKFKxfq06bv7KGFlq2_pCCXebuG0PPZ3t1rr1lQAX6QiRTcLyH6BkwTWf53I8pxF5DCWl5pa&idp=36b9LyLC2wMxXw6Ra7QC1UZmvLolnAMp3hOvc7GcNelYjgoW
 #EXTINF:-1 tvg-id="J2.hk" tvg-logo="https://i.imgur.com/imixYvK.png" group-title="香港",TVB J2
-https://cdn.ggapk.net/live/tv?id=ad8ftgLCGjHDy-lnL4MNLfXkdavJaPo4xXhaoYaypvIGt5dSE6k6WK6hK-FAoLWuSUit2aqoWU2APAreyB2wVA-jkQpckidajEeyzSs7oSvhohaS1McfxIPYEFMhF2hNPNFkzG4mCW5w_5q7t2qKfm77zpPN8vWLnhSpakmxN447Ne4Bl4ip3tI6opgi7V_KqSZU8CUrVbiuHexEmpdnBcya89aAsD10uCAD8dBd5e5wwQXSwkFlalxXQl3Bottc3MyuES7f7rANzzbZD3_YEw-Urrzd9XkVb9Za7kmFUoJRrW-Zq7MBYXvGdDf5F5hNlzRodGgFOj8Piqwm_68o_PQLjGgFBTRoO4Y1hH_haMcnBJGQmaDb-B6l8Cf0OwLjYFosPcAgI7OgTsEo4xowZX0Az6otk25kyN0sfyoGeIW9tioL6aJK50ewXLHdoNjbjfJypqnsofePc8G-upDtLAnxah21A7DS0TOJc-71cl5H5a6XBj3Sna57Z5-e1oR2JkenimVnjsl7p8Z9aF7bFTONOOJhQ2uqSp7V9OBQY7-R7_GMGwVI-WZ_H8Tf05l7RmsWD8MNCViEGqgCxbOyEPH_zkoyAaaVV-225eTNpgKKpHUQ9UtLhVZQpZqAZZVzNSs-D67X9z49Akk&idp=7e25zOT3DIPzAlKF4n9bITXL5SSkHvAlrH40mOQH1MrWR0Tbmtupow
+http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 #EXTINF:-1 tvg-id="J2_2.hk" tvg-logo="https://i.imgur.com/imixYvK.png" group-title="香港",TVB J2 (#2)
 http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 #EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/YaGiZej.jpg" group-title="香港",TVB 新聞台
@@ -160,7 +160,9 @@ http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MD2D6334659563346595&ct=1
 http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
 #EXTINF:-1 tvg-id="itv2_2.uk" tvg-logo="https://i.imgur.com/aHHjeqw.png" group-title="英國",ITV 2 (#2)
 http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=MFFF6920712969207129&ct=19226&tsum=8d0ef3e278e5c4010cec6570464fa2ea
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="英國",BBC News HD (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/2KFW8A0.jpeg" group-title="英國",Sky News
+http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="英國",BBC News HD
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="英國",BBC Four HD (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
@@ -1048,6 +1050,8 @@ https://cdn.ggapk.net/live/tv?id=9793co1-LAX2YuDeLB7_E_IcfYkdnJR49TaBPcGzKwHaK2A
 https://n1.totototorina.com:999/hls/skysme.m3u8?md5=dWNT6PglObxBoIQEgZXdBg&expires=2711152426
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/n8CalLY.jpeg" group-title="體育", Sky Sports Premier League
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroSports1.eu" tvg-logo="https://i.imgur.com/fecm6Kc.png" group-title="體育", Euro Sport 1
+http://54.39.17.6/eurosport/mono.m3u8
 #EXTINF:-1 tvg-id="GuangDongSports.cn" tvg-logo="https://i.imgur.com/1Y04Wuk.png" group-title="體育", 廣東體育
 https://tcdn.itouchtv.cn/live/gdty.m3u8?t_token=541dc1cdc7c208b0a1f082e303f8f34d-TPwb0E9hms4yc7LPwX5vTDi5b0xZ8lwMt0gadZE49DHJ0F3gx5MffUHRrrxOAA7ppyjqem7sy%2FWX9PLNJW%2FnzIguqA%2FEI1WvSrx%2F0woHz4bT%2FZEk9b784bm1eOSNgmz%2F0r%2BYeTBreWVvZbu2L5%2BZnPjjULZAPjVfzi8pSIm%2B8J%2F%2FmKEPNlVMvqdqTm4ogaxRUr3UAbuujbzpj3bLDglW7qRPzJ50k13Y7gWpyyY%2FbyEtcR2MPUc%2FBxzJG1MfFqKUzFf9E0ZpEAu2DWD5djv7HV%2BJP2MDWdQoyP2A3l40xMwUB2KvHfEf1Juol2l6%2Ba%2Fmjh6S1NixCgzeYnH2%2FjeeehTdCkatG0kcGTo9sCuUgJtw9zm6HEaGosuw94r7ujDX
 #EXTINF:-1 tvg-id="ELTASports2.tw" tvg-logo="https://i.imgur.com/68QZe9k.png" group-title="體育", ELTA體育 2
