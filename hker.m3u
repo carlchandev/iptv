@@ -8,9 +8,17 @@ http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=192
 #EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="香港",RTHK32 港台電視32
 http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 #EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.imgur.com/2QLqpF1.png" group-title="香港",TVB Jade 翡翠台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
+#EXTINF:-1 tvg-id="Jade_2.hk" tvg-logo="https://i.imgur.com/2QLqpF1.png" group-title="香港",TVB Jade 翡翠台 (#2)
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+#EXTINF:-1 tvg-id="Jade_3.hk" tvg-logo="https://i.imgur.com/2QLqpF1.png" group-title="香港",TVB Jade 翡翠台 (#3)
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+#EXTINF:-1 tvg-id="Jade_4.hk" tvg-logo="https://i.imgur.com/2QLqpF1.png" group-title="香港",TVB Jade 翡翠台 (#4)
+http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
 #EXTINF:-1 tvg-id="J2.hk" tvg-logo="https://i.imgur.com/imixYvK.png" group-title="香港",TVB J2
-http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+#EXTINF:-1 tvg-id="J2_2.hk" tvg-logo="https://i.imgur.com/imixYvK.png" group-title="香港",TVB J2 (#2)
+http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 #EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/YaGiZej.jpg" group-title="香港",TVB 新聞台 (720p)
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
 #EXTINF:-1 tvg-id="Pearl.hk" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="香港",TVB Pearl 明珠台 (1080p) [Geo-blocked]
@@ -144,6 +152,12 @@ http://epg.112114.xyz/douyu/8814650
 http://epg.112114.xyz/douyu/263824
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="中國",douyu44
 http://epg.112114.xyz/douyu/323876
+#EXTINF:-1 tvg-id="itv1.uk" tvg-logo="https://i.imgur.com/FfxMM7e.jpeg" group-title="英國",ITV 1
+http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MD2D6334659563346595&ct=19226&tsum=79815878394f0f1cd30a6f043febfbb8
+#EXTINF:-1 tvg-id="itv2.uk" tvg-logo="https://i.imgur.com/aHHjeqw.png" group-title="英國",ITV 2
+http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
+#EXTINF:-1 tvg-id="itv2_2.uk" tvg-logo="https://i.imgur.com/aHHjeqw.png" group-title="英國",ITV 2 (#2)
+http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=MFFF6920712969207129&ct=19226&tsum=8d0ef3e278e5c4010cec6570464fa2ea
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="英國",BBC News HD (720p) [Geo-blocked]
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="英國",BBC Four HD (720p) [Geo-blocked]
