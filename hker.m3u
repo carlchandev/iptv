@@ -4,9 +4,9 @@ http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=192
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="香港",Viu6
 http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 #EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="香港",RTHK31 港台電視31
-http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="香港",RTHK32 港台電視32
-http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.imgur.com/2QLqpF1.png" group-title="香港",TVB Jade 翡翠台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 #EXTINF:-1 tvg-id="Jade_2.hk" tvg-logo="https://i.imgur.com/2QLqpF1.png" group-title="香港",TVB Jade 翡翠台 (#2)
