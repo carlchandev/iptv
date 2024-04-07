@@ -138,24 +138,6 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/inde
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16.cn" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="中國",CCTV-16 (1080p)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="中國",douyu8
-http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="中國",douyu9
-http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="中國",douyu15
-http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="中國",douyu19
-http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="中國",douyu20
-http://epg.112114.xyz/douyu/52787
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="中國",douyu24
-http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="中國",douyu25
-http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="中國",douyu28
-http://epg.112114.xyz/douyu/263824
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="中國",douyu44
-http://epg.112114.xyz/douyu/323876
 #EXTINF:-1 tvg-id="itv1.uk" tvg-logo="https://i.imgur.com/FfxMM7e.jpeg" group-title="英國",ITV 1
 http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MD2D6334659563346595&ct=19226&tsum=79815878394f0f1cd30a6f043febfbb8
 #EXTINF:-1 tvg-id="itv2.uk" tvg-logo="https://i.imgur.com/aHHjeqw.png" group-title="英國",ITV 2
@@ -1399,3 +1381,21 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 https://player.smotrim.ru/iframe/stream/live_id/63254
 #EXTINF:-1 tvg-id="EuroNews.eu" tvg-logo="https://i.imgur.com/3MsLFNz.jpeg" group-title="歐洲",Euro News
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",douyu8
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",douyu9
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",douyu15
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",douyu19
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",douyu20
+http://epg.112114.xyz/douyu/52787
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",douyu24
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",douyu25
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",douyu28
+http://epg.112114.xyz/douyu/263824
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="電影",douyu44
+http://epg.112114.xyz/douyu/323876
